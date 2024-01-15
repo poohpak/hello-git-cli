@@ -3,5 +3,8 @@ second
 third - my branch
 fourtg - my branch
 기능 1 추가
+<<<<<<< HEAD
 some hot fix
 some hot hix
+=======
+>>>>>>> e5c3680 (새로운 기능 1 추가)
